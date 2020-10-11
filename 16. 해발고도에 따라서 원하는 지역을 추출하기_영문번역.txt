@@ -1,0 +1,11 @@
+This lecture explains the process of extracting the desired area according to the elevation value.
+
+1. Import elevation map (DEM)
+
+
+2. Extracting areas over 600m above sea level
+
+??? 600m or more -------> 1
+??? Less than 600m -------> Replace with 0
+
+I will complete the course above.

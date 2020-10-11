@@ -1,0 +1,9 @@
+This lecture explains the process of creating elevation elevation (DEM) maps using digital topographic maps and TIN techniques.
+
+* DEM: Digital Elevation Model
+
+1. Import contour from a digital topographic map
+
+2. Application of TIN technique
+
+I will finish this course.

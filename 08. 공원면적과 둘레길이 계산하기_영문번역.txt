@@ -1,0 +1,27 @@
+This lesson explains the process of calculating area and perimeter length.
+
+1. Import existing park boundary files
+
+2. Check the coordinate system
+
+3. Using the property table to calculate the area and perimeter of the park
+
+?? - Check coordinate system
+
+?? - In the case of WGS84 coordinate system (EPSG: 4326)
+???? Must be converted to a two-dimensional coordinate system to calculate area and circumference length
+
+4. Coordinate transformation
+
+?? - Because the two files have different coordinate systems
+?? - Only files with 2D coordinates need to be reloaded for normal calculation
+
+5. Confirm that the coordinate system is changed to EPSG: 5186
+
+6. Open the attribute table and calculate the area and perimeter length
+
+This time is a little difficult.
+Understanding by head is forgotten tomorrow. Always get used to your body.
+If you do the same thing 100 times, it accumulates in your own pocket.
+
+I will finish this course.

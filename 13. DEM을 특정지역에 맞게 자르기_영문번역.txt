@@ -1,0 +1,16 @@
+This lecture explains the process of extracting elevation elevation (DEM) maps made using digital topographic maps to specific regions.
+
+* DEM: Digital Elevation Model
+
+1. Importing elevation maps (DEM) from digital topographic maps
+
+2. National spatial information portal Extract a specific area from a digital map
+
+??? - Boundary file
+
+
+3. Extracting the DEM to a specific region
+
+
+
+I will finish this course.

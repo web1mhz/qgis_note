@@ -1,0 +1,4 @@
+This tutorial describes the process of installing QGIS 2.18.
+
+
+I will finish this course.

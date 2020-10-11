@@ -1,0 +1,16 @@
+This lesson explains the process of evaluating the accuracy of a topic produced by GIS function.
+
+1. Import SRTM30m elevation map (DEM)
+
+2. Import survey point data including altitude values measured in the field
+
+
+
+3. Extraction of SRTM30m DEM value by survey site
+
+
+4. Import the altitude values from the field altitude values and the altitude values extracted from the SRTM30m elevation map into Excel
+
+5. Correlation is as high as 0.997, so the accuracy of the SRTM30m elevation map can be said to be high
+
+I will complete the course above.

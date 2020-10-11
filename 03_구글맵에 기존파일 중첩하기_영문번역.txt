@@ -1,0 +1,24 @@
+This tutorial will show you how to nest existing GIS files in Google Maps.
+
+1. Importing Google Maps
+
+??? - Lecture 3. Refer to Google Maps Import
+
+2. Check the coordinate system
+
+3. Import GIS file
+??? - If the GIS is loaded but not visible
+????? This is because the coordinates of Google map coordinates and GIS data are not the same.
+
+- Google Map Coordinates: EPSG: 3857
+- GIS data created in Lecture 1 is WGS84 (= EPSG: 4326)
+
+- Therefore, coordinates must match
+- You need to convert the GIS data created in Lesson 1 to EPSG: 3857.
+
+
+Very easy content.
+Understanding by head is forgotten tomorrow. Always get used to your body.
+If you do the same thing 100 times, it accumulates in your own pocket.
+
+I will finish this course.

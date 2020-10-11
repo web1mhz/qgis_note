@@ -1,0 +1,24 @@
+This lecture describes the process of assigning a scientific name to a species name by combining an Excel file with a GIS file.
+
+1. Download List of National Species
+
+??? - http://www.kbr.go.kr/index.do Access> Biological Resource DB> List of National Species List
+
+2. Import GIS data with only species names
+
+3. Copy the attribute table (ctrl + c) and paste it into excel (ctrl + v)
+
+4. Obtain the scientific name from the list of National Species after eliminating species duplication in Excel
+
+5. Convert Excel file to CSV file and import into QGIS
+
+
+6. Combining CSV files into GIS files
+
+7. Persistent storage after the combination of scientific names
+
+8. Change field name
+
+
+This is a fairly common method and is a very useful way to link your work with GIS.
+I will complete the course above.

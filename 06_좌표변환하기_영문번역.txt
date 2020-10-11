@@ -1,0 +1,23 @@
+This lesson describes the process of coordinate transformation.
+
+1. The GPS coordinates are based on the WGS84 coordinate system.
+??? In QGIS, it is called EPSG: 4326.
+
+2. Because 3-D coordinates use degrees when calculating area or length
+??? To calculate the area or length, you need to convert it to 2 dimensions.
+
+??? Korea usually uses the GRS80 TM coordinate system.
+??? QGIS is called EPSG: 5186.
+
+3. Convert WGS84 coordinates (EPSG: 4326) to GRS80 TM coordinates (EPSG: 5186)
+
+? - Then the WGS84 coordinate system data is loaded.
+
+??? Note: Google Map Coordinate: EPSG: 3857 (WGS84 / Pseudo Mercator)
+
+
+This time is a little difficult.
+Understanding by head is forgotten tomorrow. Always get used to your body.
+If you do the same thing 100 times, it accumulates in your own pocket.
+
+I will finish this course.

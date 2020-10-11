@@ -1,0 +1,7 @@
+This lecture explains the process of transforming metric data into graphemes.
+
+
+Degree minute -> degree conversion method: degrees + minutes / 60 + seconds / 3600
+
+Longitude: 127 degrees 00 minutes 00 seconds ----------> ???
+Latitude: 38 degrees 00 minutes 00 seconds ----------> ???

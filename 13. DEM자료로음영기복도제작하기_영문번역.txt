@@ -1,0 +1,18 @@
+This lecture explains the process of creating shaded relief maps using elevation (DEM) maps.
+
+* Shadow relief (hillshade): Variation of elevation
+
+- Mainly used mainly to express 3D terrain
+
+1. Import a map of elevation (DEM) with a spatial resolution of 30 m using TIN interpolation
+????
+??? - Spatial resolution = pixels size
+
+* TIN Interpolation: Triangulated Irregular Network (TIN) Interpolation
+
+2. Shadow relief production
+
+This is not difficult.
+
+I will finish this course.
+

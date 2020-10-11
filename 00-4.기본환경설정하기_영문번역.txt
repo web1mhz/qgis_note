@@ -1,0 +1,8 @@
+This tutorial describes the basic configuration when using QGIS 2.18.
+
+
+This course is based on the environment that is set up this time.
+If the environment is different, the operation result may be different.
+
+
+I will end it.

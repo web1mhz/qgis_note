@@ -1,0 +1,8 @@
+Download QGIS past distributions
+
+1. Download site: https://www.qgis.org/en/site/
+
+??? - Current version: 3.6.2
+
+
+2. 2. This course uses stable 2.18 version.

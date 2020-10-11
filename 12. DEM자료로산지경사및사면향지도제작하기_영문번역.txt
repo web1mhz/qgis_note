@@ -1,0 +1,18 @@
+This lecture explains the process of producing mountain slope map and slope map using elevation (DEM) map.
+
+
+
+1. Import a map of elevation (DEM) with a spatial resolution of 30 m using TIN interpolation
+????
+??? - Spatial resolution = pixels size
+
+* TIN Interpolation: Triangulated Irregular Network (TIN) Interpolation
+
+2. Production of mountain slope
+
+3. Production of slope (= oblique direction)
+??
+
+This is not difficult. Perform 100 times until you get used to it
+
+I will finish this course.

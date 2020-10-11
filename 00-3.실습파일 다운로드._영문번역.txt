@@ -1,0 +1,13 @@
+This lesson explains the process of downloading a lab file.
+
+
+1. Access the site where the practice files are saved using the Chrome browser
+
+??? - https://github.com/web1mhz/QGIS_ex_data
+
+2. Download the practice file
+
+3. Unzip to my computer
+
+
+I will finish this course.

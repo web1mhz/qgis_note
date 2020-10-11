@@ -1,0 +1,47 @@
+This lesson explains the second step of creating a map of elevation (DEM) using a digital topographic map.
+
+* DEM: Digital Elevation Model
+
+1. Downloading the National Geospatial Information Portal (dxf file)
+
+???- http://www.nsdi.go.kr
+
+2. National Geospatial Portal Digital Topographic DXF file is GRS80TM coordinates (EPSG: 5186)
+
+
+3. Convert a DXF file to a Shape (Shp) file containing altitude values ??for GIS analysis
+
+4. Contour extraction with input of elevation value
+
+
+??- 1: 5,000 scale topographic map
+??The contour line is 5m
+??The valley line is 25m
+??The curve is made at intervals of 5m.
+
+??-1: 25,000 scale digital map
+?Cascade 50m
+?Curved line 10m
+
+??- Contour-related layer codes in a digital topographic map
+????7111: Curvature line (convex) 7121 (concave)
+????7112: Liver curve (convex) 7122 (concave)
+????7113: Curved line (convex) 7123 (concave)
+????7114: Raised line 7124 (concave)
+
+??- Layer codes related to elevation in a digital topographic map
+????7217: Elevation point
+
+
+4. IDW Interpolation for Elevation Maps (DEM) Mapping
+
+???- Spatial resolution (pixel size): 30m x 30m
+
+
+* IDW Interpolation: Inverse Distance Weighting (IDW) Interpolation
+??
+Because this is an open source program, it can take a lot of time and error
+Be patient and have a cup of coffee until the DEM map is complete.
+
+
+I will finish this course.

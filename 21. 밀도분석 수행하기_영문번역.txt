@@ -1,0 +1,25 @@
+This lecture explains the process of analyzing species density using location data of species.
+
+1. Import vector file
+
+??? - Moody's flora GIS data
+??? - Mudeungsan Park boundary GIS data
+
+2. Coordinate transformation
+???
+??? - Checking the vector file coordinates
+
+??? - (emphasis) Always use GRS80 TM for GIS analysis.
+
+
+3. Perform density analysis
+
+??? - Density analysis can have various results depending on area.
+??? - It is most important to find the right area for analysis while varying the area.
+????? Finding an area has no established criteria.
+
+4. Map styling
+??? - Assigning a title
+
+
+I will end it.

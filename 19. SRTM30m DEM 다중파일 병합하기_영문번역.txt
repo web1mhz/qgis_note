@@ -1,0 +1,14 @@
+This lesson describes the process of merging multiple files.
+
+1. Import four SRTM30m DEM data simultaneously
+
+??? - using the ctrl key
+??? - Multiple files can be loaded by drag-and-drop
+
+
+3. After merging, check if it matches the original file
+
+4. Save as
+
+
+I will complete the course above.

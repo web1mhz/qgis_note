@@ -1,0 +1,26 @@
+This lecture explains the process of extracting the altitude value according to the survey point.
+
+
+1. Installing the Point sampling tool plug-in
+
+
+2. Import Elevation Maps (DEM) - Raster Data
+
+
+3. Importing Flora Locations - Vector Resources
+
+
+4. The altitude data is EPSG: 5179 and the vegetation location data is WGS84
+
+??? The plant location data should be converted to EPSG: 5179.
+
+5. Coordinate transformation of vegetation position data
+
+4. Extract elevation value of survey point using point sampling tool
+
+
+4. Extract elevation value of survey point using point sampling tool
+
+5. The text is strange ... Correction
+
+I will complete the course above.

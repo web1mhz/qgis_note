@@ -1,0 +1,21 @@
+This tutorial explains how to create a GIS file using an Excel file.
+
+
+1. Enter the GPS data in the Excel file.
+
+??? Note: GPS data is WGS84 coordinates with latitude and longitude coordinates.
+
+2. The important fields here are x_ longitude and y_ latitude.
+
+3. Now convert the Excel file to CSV file to import into QGIS.
+
+4. Import the converted CSV file into QGIS.
+
+5. Now I end up saving my GIS file as a Shp file permanently to my computer.
+
+
+I will finish this course.
+
+Understanding by head is forgotten tomorrow. Always get used to your body.
+
+If you do the same thing 100 times, it accumulates in your own pocket.

@@ -1,0 +1,18 @@
+This lesson describes the process of selecting and saving a specific region.
+
+
+1. Import existing file
+
+2. Select a specific region
+
+??? - Method 1: Use mouse to select and save
+
+??? - Method 2: Select and save using property table
+
+3. This course is related to spatial search in GIS function.
+
+
+Understanding by head is forgotten tomorrow. Always get used to your body.
+If you do the same thing 100 times, it accumulates in your own pocket.
+
+I will finish this course.

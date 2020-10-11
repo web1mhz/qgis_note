@@ -1,0 +1,33 @@
+This lecture explains the calculation of the biodiversity index Shannon Index using field survey data.
+
+* Shannon index: shannon-wiener index
+
+- Alpha diversity.
+- Shannon exponential equation = -1 x total [(number of species / total number of species) * ln (number of species / total number of species)]
+
+[Reference]
+* Species Abundance: Number of Species in Species
+* Relative capitals: Percentage of each species in the community
+* High diversity of species is higher when the wind velocity is high and the relative water value is even.
+
+1. Importing survey data
+????
+???- Example: Use of Mudeungsan National Park Flora field survey
+
+2. Obtaining species numbers by eliminating species duplication in field survey data
+3. Obtaining the number of species
+
+4. Obtaining species ratio by species / total population
+5. Apply log function to classification ratio
+6. Multiply numbers 4 and 5 and multiply by -1 to avoid negative numbers
+7. Finally, add all the values ??to calculate the Shannon index
+8. Moody's National Park Flora Diversity Index is: 1.494119
+
+This is not difficult.
+
+I will finish this course.
+
+
+
+
+

@@ -1,0 +1,16 @@
+This tutorial explains how to import a file created as a GIS file or an existing file using an Excel file.
+
+
+1. Importing files from QGIS.
+
+First method
+
+Second way - Drag and drop
+
+
+Very easy content.
+Understanding by head is forgotten tomorrow. Always get used to your body.
+If you do the same thing 100 times, it accumulates in your own pocket.
+
+I will finish this course.
+.

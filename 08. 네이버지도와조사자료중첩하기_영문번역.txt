@@ -1,0 +1,24 @@
+This course explains the process of overlapping Naver maps and existing GIS data.
+
+1. Coordinate system must be matched in order to overlap Naver map with existing GIS data
+
+2. Neighbor map coordinate system: EPSG: 5179, existing data is EPSG: 4326 (WGS84)
+
+3. Naver maps are not coordinate transformed
+??? We need to coordinate and transform the data we create to nest.
+
+??? - Naver Map Loading
+
+??? - Import existing GIS data (WGS84 coordinates)
+
+????? *** The two data are not overlapping because their coordinates do not match.
+???
+??? - Converting existing GIS data to EPSG: 5179
+
+4. If the nested result is successful
+
+This time is a little difficult.
+Understanding by head is forgotten tomorrow. Always get used to your body.
+If you do the same thing 100 times, it accumulates in your own pocket.
+
+I will finish this course.

@@ -1,0 +1,24 @@
+This lesson explains the process of importing Naver maps.
+
+1. Because it is difficult to confirm the site only at the survey site,
+? It is necessary to know the site by aerial photograph.
+
+?? - Method: Checking via Naver Map
+
+2. Naver maps can be imported as plugins from QGIS
+
+
+3. Check the coordinate system of Naver map
+
+?? - Naver map is different from GPS coordinate (= WGS84 coordinate system)
+???? It does not match the existing WGS84 data.
+?? - So you have to check the coordinate system.
+
+?? - Neighbor map coordinate system is EPSG: 5179
+
+
+This time is a little difficult.
+Understanding by head is forgotten tomorrow. Always get used to your body.
+If you do the same thing 100 times, it accumulates in your own pocket.
+
+I will finish this course.

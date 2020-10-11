@@ -1,0 +1,16 @@
+This course explains the process of downloading the SRTM30m DEM data.
+
+1. Sign up for membership at https://earthexplorer.usgs.gov/
+
+2. Select SRTM30m DEM data
+
+3. Select the area where you want to download the material
+
+??? - Targeted Mudeungsan National Park
+
+5. Select and download the DEM data for the target area
+
+
+I will complete the course above.
+
+The following lecture will show you how to combine several files into one.
